@@ -10,6 +10,7 @@ First of all you need to have node 18+ and then
 After that run
 
     npm run dev:mocked
+    npm run test
  
 ## Realisation
 Mostly it's lookalike from the initial mockups but with usage of the raw MUI component library.
