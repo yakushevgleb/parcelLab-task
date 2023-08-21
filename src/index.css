@@ -1,0 +1,17 @@
+:root {
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  background-image: linear-gradient(rgb(229,240,253), rgb(255,255,255));
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
